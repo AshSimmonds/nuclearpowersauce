@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://NUCLEARPOWERSAUCE.COM
-
-# Sitemaps
-Sitemap: https://NUCLEARPOWERSAUCE.COM/sitemap.xml
