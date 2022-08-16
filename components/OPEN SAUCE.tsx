@@ -6,12 +6,12 @@ import { Divider } from "./Divider";
 export default function OPENSAUCE() {
     const projects = [
         {
-            name: "NUCLEAR POWER SAUCE",
+            name: "Declaration about your payload",
             description:
-                "THIS IS OPEN SAUCE",
+                "Do you declare that your payload does not and will not contain a nuclear power sauce?",
             link: "https://docs.google.com/document/d/1ETRD-5gkft6ys8dceBSbrEr1Rx4sH2zV/edit?usp=sharing&ouid=112232303601060671207&rtpof=true&sd=true",
             deployment: "httpESS://NUCLEAR POWER SAUCE.com",
-            stack: ["COVILLE", "CHILLI", "FRENULUM"],
+            stack: ["COVILLE", "CHILLI", "totally safe ingestible liquid"],
         },
     ];
 
