@@ -1,11 +1,7 @@
 import { NextPage } from "next";
-import Contact from "../components/Contact";
-import Stack from "../components/Stack";
-import Projects from "../components/Projects";
+import NUCLEARPOWERSAUCE from "../components/NUCLEAR POWER SAUCE";
 import { NextSeo } from "next-seo";
-import Hero from "../components/Hero";
 import Head from "next/head";
-import OpenSource from "../components/OpenSource";
 
 const Home: NextPage = () => {
   return (
@@ -18,24 +14,19 @@ const Home: NextPage = () => {
         />
       </Head>
       <NextSeo
-        title="Portfolio | Abhinav Robinson"
-        description="This is the portfolio website of Abhinav Robinson. Abhinav is a senior software developer / engineer and technical lead , developer lead. React NextJS Typescript Javascript Mongo Express NestJS GraphQL Solidity Hardhat HTML CSS TailwindCSS SASS/SCSS Rust Golang Python AWS GCP Azure Git"
-        canonical="https://abhinav.one"
+        title="NUCLEAR POWER SAUCE"
+        description="I AM QUEEN OF NUCLEAR POWER SAUCE"
         openGraph={{
           type: "website",
           locale: "en_IE",
-          url: "https:/abhinav.one",
-          title: "Abhinav Robinson's Portfolio",
+          url: "https:/NUCLEARPOWERSAUCE.com",
+          title: "NUCLEAR POWER SAUCE",
           description:
-            "This is the portfolio website of Abhinav Robinson. Abhinav is a senior software developer / engineer and technical lead , developer lead. React NextJS Typescript Javascript Mongo Express NestJS GraphQL Solidity Hardhat HTML CSS TailwindCSS SASS/SCSS Rust Golang Python AWS GCP Azure Git",
-          site_name: "Portfolio | Abhinav Robinson",
+            "THIS IS NUCLEAR POWER SAUCE. I AM QUEEN OF NUCLEAR POWER SAUCE",
+          site_name: "NUCLEAR POWER SAUCE",
         }}
       />
-      <Hero />
-      <Projects />
-      <Stack />
-      <OpenSource />
-      <Contact />
+      <NUCLEARPOWERSAUCE />
     </main>
   );
 };
