@@ -20,9 +20,9 @@ const Home: NextPage = () => {
           type: "website",
           locale: "en_IE",
           url: "https:/NUCLEARPOWERSAUCE.com",
-          title: "NUCLEAR POWER SAUCE",
+          title: "THIS IS NUCLEAR POWER SAUCE",
           description:
-            "THIS IS NUCLEAR POWER SAUCE. I AM QUEEN OF NUCLEAR POWER SAUCE",
+            "WE HAVE UPGRADED OUR COVILLES TO SCOVILLES. I AM QUEEN OF NUCLEAR POWER SAUCE",
           site_name: "NUCLEAR POWER SAUCE",
         }}
       />
