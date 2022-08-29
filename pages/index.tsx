@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       </Head>
       <NextSeo
         title="NUCLEAR POWER SAUCE"
-        description="I AM QUEEN OF NUCLEAR POWER SAUCE"
+        description="WE HAVE UPGRADED OUR COVILLES TO SCOVILLES. I AM QUEEN OF NUCLEAR POWER SAUCE"
         openGraph={{
           type: "website",
           locale: "en_IE",
