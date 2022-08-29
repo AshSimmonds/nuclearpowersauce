@@ -11,7 +11,7 @@ export default function OPENSAUCE() {
                 "Do you declare that your payload does not and will not contain a nuclear power sauce?",
             link: "https://docs.google.com/document/d/1ETRD-5gkft6ys8dceBSbrEr1Rx4sH2zV/edit?usp=sharing&ouid=112232303601060671207&rtpof=true&sd=true",
             deployment: "https://twitter.com/BlueDwarfAsh/status/1556386286633906176",
-            stack: ["COVILLE", "CHILLI", "totally safe ingestible liquid"],
+            stack: ["SCOVILLE", "CHILLI", "totally safe ingestible liquid"],
         },
     ];
 
